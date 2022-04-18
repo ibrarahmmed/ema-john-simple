@@ -1,10 +1,10 @@
 # ema-john-simple
 
-Netlify Live website Link [Create React App](https://ema-john-simple-ibrar.netlify.app/).
+Netlify Live website Link [Ema-john-Simple](https://ema-john-simple-ibrar.netlify.app/).
 
-## Available Scripts
+## Live WebSite Link
 
-In the project directory, you can run:
+Netlify Live website Link [Ema-john-Simple](https://ema-john-simple-ibrar.netlify.app/).
 
 ### `npm start`
 
