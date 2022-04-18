@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# ema-john-simple
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Netlify Live website Link [Create React App](https://ema-john-simple-ibrar.netlify.app/).
 
 ## Available Scripts
 
